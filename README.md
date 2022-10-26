@@ -6,3 +6,9 @@ PPGBP_Anania_Torlaschi_Tu_actualizado.ipynb resuelve gran parte de estos problem
 ///
 
 Within PPGBP_Anania_Torlaschi_Tu.ipynb you will find our final exam regarding blood pressure estimation, using ANNs. Some rendering issues were encountered in GitHub due to accents and image formats. Most of these issues are avoided within the PPGBP_Anania_Torlaschi_Tu_actualizado.ipynb file.
+
+////
+
+#NBviewer link
+
+https://nbviewer.org/github/mtorlaschi/RN_PPGBP/blob/master/PPGBP_Anania_Torlaschi_Tu_actualizado.ipynb
