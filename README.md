@@ -1,3 +1,3 @@
 # RN_PPGBP
 
-En el archivo PPGBP_Anania_Torlaschi_Tu.ipynb encontrarán nuestro final resuelto. Cabe aclarar que no pudimos resolver el problema de formato en el que GitHub corta parte de la notebook, pero si se abre en Google Colab se puede visualizar correctamente.
+En el archivo PPGBP_Anania_Torlaschi_Tu.ipynb encontrarán nuestro examen final resuelto para la estimacion de la presion arterial, mediante el uso de ANNs. Cabe aclarar que se encuentran problemas de renderizacion en GitHub por las tildes utilizadas, y algunas imagenes (no sucede al visualizarlo en Google Colab, por ejemplo).
