@@ -9,6 +9,6 @@ Within PPGBP_Anania_Torlaschi_Tu.ipynb you will find our final exam regarding bl
 
 ////
 
-#NBviewer link
+# NBviewer link
 
 https://nbviewer.org/github/mtorlaschi/RN_PPGBP/blob/master/PPGBP_Anania_Torlaschi_Tu_actualizado.ipynb
